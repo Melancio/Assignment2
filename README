@@ -1,0 +1,8 @@
+Melance Gaudreault 4403946 Assignment 2 - A dictionary with multiply files
+
+To build: $ make
+
+To run: $ ./main < "Text file"
+
+This program takes the words from a desired text file and displays their frequency.
+note: text file must have more than a 100 words in oder to work.
